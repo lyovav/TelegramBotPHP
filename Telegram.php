@@ -9,7 +9,7 @@ if (file_exists('TelegramErrorLogger.php')) {
  *
  * @author Gabriele Grillo <gabry.grillo@alice.it>
  */
-class Telegram
+class TelegramBot
 {
     /**
      * Constant for type Inline Query.
